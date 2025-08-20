@@ -146,12 +146,8 @@
 		</div>
 	</section>
 
-	
-
-	
-
 	<!-- Newsletter Section -->
-	<section class="py-20 px-4 scroll-mt-20">
+	<section class="px-4 scroll-mt-20">
 		<div class="container mx-auto max-w-xl text-center" id="newsletter">
 			<h2 class="text-3xl font-bold mb-6">Stay Updated</h2>
 			<p class="text-muted-foreground mb-8">
